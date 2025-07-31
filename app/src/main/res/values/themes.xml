@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.YandexMaps" parent="Theme.Material3.Light.NoActionBar">
+        <!--        <item name="android:statusBarColor">@color/stormy_sky</item>.-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/champagne</item>
+    </style>
+
+    </resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YandexMaps</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="text_for_dialod_field_hint">Name of the new placemark..</string>
+    <string name="list_for_item_placemarks">List for item placemarks</string>
+    <string name="Точка">.</string>
+</resources>
