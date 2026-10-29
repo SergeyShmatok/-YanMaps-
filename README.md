@@ -14,6 +14,6 @@
   <img src="Screen-video/YanMap_video.gif" width="300" alt="Демонстрация работы с картой">
 </p>
 
-[Смотреть](Screen-video) скрины
+Смотреть [скрины](Screen-video)
 
 **Стек:** Kotlin, Yandex MapKit.
